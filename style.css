@@ -1,11 +1,14 @@
 .logotipo1{
     height: 300px;
-
-
-
-
+ background: color(srgb   green blue);
+}
+.logotipo2 {
+    height: 300px;
 }
 .a1 {
 
     color: gray;
+}
+.a2 {
+    size: 150px;
 }
